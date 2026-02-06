@@ -33,5 +33,5 @@ XGBoost provided the best overall performance, offering a reasonable trade-off b
 precision and recall after threshold adjustment.
 
 ## Author
-Daniel
+Daniel Omotoye
 
